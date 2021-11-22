@@ -1,1 +1,1 @@
-# Dynamic-Modelling-of-2W-EV
+# Dynamic Modelling of 2W Electric Vehicle
